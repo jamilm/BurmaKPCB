@@ -1,4 +1,4 @@
-package com.jamilmerali.burmakpcb;
+package com.example.burmakpcb;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
